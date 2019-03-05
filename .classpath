@@ -15,5 +15,6 @@
 	<classpathentry kind="lib" path="AddNumbersServlet/WebContent/WEB-INF/lib/jsr311-api-1.1.1.jar"/>
 	<classpathentry kind="con" path="org.eclipse.jst.j2ee.internal.web.container"/>
 	<classpathentry kind="con" path="org.eclipse.jst.j2ee.internal.module.container"/>
+	<classpathentry kind="lib" path="C:/Users/a.asfaw/Downloads/javax.servlet-api-3.0.1.jar"/>
 	<classpathentry kind="output" path="AddNumbersServlet/build/classes"/>
 </classpath>
